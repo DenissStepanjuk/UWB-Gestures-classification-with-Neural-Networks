@@ -1,7 +1,8 @@
 UWB Radar-Based Gesture Classification with PyTorch
 
 Original article:
-https://www.researchgate.net/publication/350811193_UWB-gestures_a_public_dataset_of_dynamic_hand_gestures_acquired_using_impulse_radar_sensors 
+https://www.researchgate.net/publication/350811193_UWB-gestures_a_public_dataset_of_dynamic_hand_gestures_acquired_using_impulse_radar_sensors
+
 https://www.nature.com/articles/s41597-021-00876-0
 
 Data:
