@@ -1,4 +1,7 @@
-UWB Radar-Based Gesture Classification with PyTorch
+**UWB Radar-Based Gesture Classification with PyTorch**
+
+**My article:**
+https://habr.com/ru/articles/897714/
 
 Original article:
 
