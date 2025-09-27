@@ -1,15 +1,21 @@
-**UWB Radar-Based Gesture Classification with PyTorch**
+# UWB Radar-Based Gesture Classification with PyTorch
 
-**My article:**
+Developed a deep learning pipeline for gesture classifi cation using ultra-wideband (UWB) radar data. Explored and implemented multiple neural network architectures:
+**⬝ Convolutional Neural Networks (CNNs)**
+**⬝ Recurrent Neural Networks (RNNs)**
+**⬝ Transformer-based models with QKV Attention**
+to extract and model spatio-temporal patterns from radar signal reflections. Achieved reliable classifi cation accuracy across architectures, with comparative analysis of performance and model behavior. The project includes data preprocessing, model training, evaluation, and visualization.
+
+### My article:
 https://habr.com/ru/articles/897714/
 
-Original article:
+### Original article:
 
 https://www.researchgate.net/publication/350811193_UWB-gestures_a_public_dataset_of_dynamic_hand_gestures_acquired_using_impulse_radar_sensors
 
 https://www.nature.com/articles/s41597-021-00876-0
 
-Data:
+### Data:
 
 https://figshare.com/articles/dataset/A_Public_Dataset_of_Dynamic_Hand-gestures_Acquired_using_Impulse-radar_sensors_/12652592
 
